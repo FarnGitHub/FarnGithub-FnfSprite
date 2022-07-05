@@ -1,3 +1,3 @@
 Made By Only me ( FarnGitHub )
-Credit To dave and bambi sprite as template
+Credit To Dave And Bambi For Traced Before 4.0 sprite
 # Note : Icon Date Don't Match Sprite Date
